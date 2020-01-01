@@ -1,6 +1,6 @@
 #include<iostream.h>
 #include<conio.h>
-void main ()
+int main ()
 {
 cout<<"__——";
 getch();
